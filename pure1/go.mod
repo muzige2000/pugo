@@ -1,4 +1,4 @@
-module github.com/devans10/pugo/pure1
+module github.com/muzige2000/pugo/pure1
 
 go 1.12
 
