@@ -72,7 +72,7 @@ type Client struct {
 
 // Type supported is used for retrieving the support API versions from the Flash Array
 type supported struct {
-	Versions []string `json:"version"`
+	Versions []string `json:"versions"`
 }
 
 // Type auth is used to for the API token used in API authentication
